@@ -1,6 +1,6 @@
 # ALU_4Bit
 
-This is an implementation of a 4-bit ALU in VHDL .
+This is an implementatio of a 4-bit ALU in VHDL .
 
 ---
 
